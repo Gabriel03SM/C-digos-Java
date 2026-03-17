@@ -21,5 +21,6 @@ public class Main {
 		);
 
 		System.out.println(total);
+		System.out.println("Execução realizada com sucesso!");
 	}
 }
